@@ -1,0 +1,2 @@
+# empty
+Any empty project
